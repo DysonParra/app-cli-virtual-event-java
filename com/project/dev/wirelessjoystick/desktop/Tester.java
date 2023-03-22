@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {Tester} se encarga de realizar tareas específicas.
+ * @fileoverview    {Tester}
  *
  * @version         2.0
  *
