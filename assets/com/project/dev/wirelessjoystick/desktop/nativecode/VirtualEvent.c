@@ -30,7 +30,7 @@
     // 165 VK_RMENU
 
 /**
- * FIXME: Definición de {@code runVirtualKeyEvent}.
+ * FIXME: Description of {@code runVirtualKeyEvent}.
  * Simula la pulsación de una tecla.
  */
 JNIEXPORT void JNICALL Java_com_project_dev_wirelessjoystick_desktop_nativecode_VirtualEvent_runVirtualKeyEvent
@@ -64,7 +64,7 @@ JNIEXPORT void JNICALL Java_com_project_dev_wirelessjoystick_desktop_nativecode_
 #define VK_LBUTTON_DOUBLE 0x07
 
 /**
- * FIXME: Definición de {@code runVirtualMouseClicEvent}.
+ * FIXME: Description of {@code runVirtualMouseClicEvent}.
  * Simula un evento de clic.
  */
 JNIEXPORT void JNICALL Java_com_project_dev_wirelessjoystick_desktop_nativecode_VirtualEvent_runVirtualMouseClicEvent
@@ -117,7 +117,7 @@ JNIEXPORT void JNICALL Java_com_project_dev_wirelessjoystick_desktop_nativecode_
 #define  VK_MOUSE_MOVE_EVENT_DOWN  40
 
 /**
- * FIXME: Definición de {@code runVirtualMouseMoveEvent}.
+ * FIXME: Description of {@code runVirtualMouseMoveEvent}.
  * Simula un evento de movimiento de mouse.
  */
 JNIEXPORT void JNICALL Java_com_project_dev_wirelessjoystick_desktop_nativecode_VirtualEvent_runVirtualMouseMoveEvent

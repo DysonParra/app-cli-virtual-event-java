@@ -22,7 +22,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 /**
- * TODO: Definición de {@code VirtualEvent}.
+ * TODO: Description of {@code VirtualEvent}.
  *
  * @author Dyson Parra
  * @since 11
@@ -43,7 +43,7 @@ public class VirtualEvent {
     private static String linkErrorMessage = "";
 
     /**
-     * TODO: Definición de {@code isLinkedDll}.
+     * TODO: Description of {@code isLinkedDll}.
      *
      */
     public static boolean isLinkedDll() {
@@ -51,7 +51,7 @@ public class VirtualEvent {
     }
 
     /**
-     * TODO: Definición de {@code getLinkErrorMessage}.
+     * TODO: Description of {@code getLinkErrorMessage}.
      *
      */
     public static String getLinkErrorMessage() {
@@ -59,7 +59,7 @@ public class VirtualEvent {
     }
 
     /**
-     * FIXME: Definición de {@code runVirtualKeyEvent}.
+     * FIXME: Description of {@code runVirtualKeyEvent}.
      * Simula eventos de teclado en C.
      *
      * @param eventCode es el evento de teclado entendido por C.
@@ -67,7 +67,7 @@ public class VirtualEvent {
     public native void runVirtualKeyEvent(int eventCode);
 
     /**
-     * FIXME: Definición de {@code runVirtualMouseClicEvent}.
+     * FIXME: Description of {@code runVirtualMouseClicEvent}.
      * Simula eventos de clic del mouse en C.
      *
      * @param eventCode es el evento de clic del mouse entendido por C.
@@ -75,7 +75,7 @@ public class VirtualEvent {
     public native void runVirtualMouseClicEvent(int eventCode);
 
     /**
-     * FIXME: Definición de {@code runVirtualMouseMoveEvent}.
+     * FIXME: Description of {@code runVirtualMouseMoveEvent}.
      * Simula eventos de mover mouse en C.
      *
      * @param eventCode     es el evento de mover mouse entendido por C.

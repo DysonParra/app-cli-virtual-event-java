@@ -17,7 +17,7 @@ package com.project.dev.wirelessjoystick.desktop;
 import com.project.dev.wirelessjoystick.desktop.nativecode.*;
 
 /**
- * TODO: Definición de {@code Tester}.
+ * TODO: Description of {@code Tester}.
  *
  * @author Dyson Parra
  * @since 11
