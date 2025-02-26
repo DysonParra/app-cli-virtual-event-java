@@ -43,7 +43,7 @@ public class VirtualEvent {
     private static String linkErrorMessage = "";
 
     /**
-     * TODO: Description of {@code isLinkedDll}.
+     * TODO: Description of method {@code isLinkedDll}.
      *
      */
     public static boolean isLinkedDll() {
@@ -51,7 +51,7 @@ public class VirtualEvent {
     }
 
     /**
-     * TODO: Description of {@code getLinkErrorMessage}.
+     * TODO: Description of method {@code getLinkErrorMessage}.
      *
      */
     public static String getLinkErrorMessage() {
@@ -59,7 +59,7 @@ public class VirtualEvent {
     }
 
     /**
-     * FIXME: Description of {@code runVirtualKeyEvent}.
+     * FIXME: Description of method {@code runVirtualKeyEvent}.
      * Simula eventos de teclado en C.
      *
      * @param eventCode es el evento de teclado entendido por C.
@@ -67,7 +67,7 @@ public class VirtualEvent {
     public native void runVirtualKeyEvent(int eventCode);
 
     /**
-     * FIXME: Description of {@code runVirtualMouseClicEvent}.
+     * FIXME: Description of method {@code runVirtualMouseClicEvent}.
      * Simula eventos de clic del mouse en C.
      *
      * @param eventCode es el evento de clic del mouse entendido por C.
@@ -75,7 +75,7 @@ public class VirtualEvent {
     public native void runVirtualMouseClicEvent(int eventCode);
 
     /**
-     * FIXME: Description of {@code runVirtualMouseMoveEvent}.
+     * FIXME: Description of method {@code runVirtualMouseMoveEvent}.
      * Simula eventos de mover mouse en C.
      *
      * @param eventCode     es el evento de mover mouse entendido por C.
