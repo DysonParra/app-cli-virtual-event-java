@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {VirtualEvent}
+ * @overview        {VirtualEvent}
  *
  * @version         2.0
  *
